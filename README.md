@@ -1,4 +1,4 @@
-# pasterbin
+# pastebin
 Design Pastebin.com 
 
 High Level Design
