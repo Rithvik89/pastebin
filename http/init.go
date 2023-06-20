@@ -15,7 +15,7 @@ func initServer(app *App) {
 
 	r := chi.NewRouter()
 
-	// git example ....
+	// git example .....
 
 	initHandler(r)
 
