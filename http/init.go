@@ -15,6 +15,8 @@ func initServer(app *App) {
 
 	r := chi.NewRouter()
 
+	// git example .....
+
 	initHandler(r)
 
 	srv := http.Server{
